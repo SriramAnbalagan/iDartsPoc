@@ -1,0 +1,17 @@
+.companyStats-container {
+    .companyStats-wrapper {
+        background-color: rgba(13, 13, 13, 0.03);
+    }
+    .companyStats-content {
+        display: flex;
+        flex-direction: row;
+        justify-content: safe;
+        margin-top: auto;
+        margin-bottom: auto;
+        font-size: 13px;
+        padding-left: 25px;
+        .icon {
+            margin: 5px 5px 0 0;
+        }
+    }
+}

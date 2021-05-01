@@ -1,0 +1,19 @@
+.btn-container {
+    display: flex;
+    height: 100px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 0px;
+    .btn {
+        align-self: center;
+        margin: 5px 0 5px 0;
+        min-width: 65px;
+    }
+    .btn:hover {
+        color: #212529;
+    }
+    .btn-outline-warning {
+        font-weight: 650 !important;
+    }
+}

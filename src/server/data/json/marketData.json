@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "scripName": "AADR",
+      "quantity": 430,
+      "price": 50.30,
+      "avgCost": 41.75,
+      "investedAmount": "17,952.07",
+      "portfolioValue": 77.06,
+      "pl": "3,676.93",
+      "returnValue": 20.48,
+      "companyName": "iShares",
+      "createdBy": "by **** Company",
+      "companySubName": "S&P 500 Index",
+      "companyFooter": "US Equality"
+    },
+    {
+      "scripName": "MFEM",
+      "quantity": 210,
+      "price": 23.20,
+      "avgCost": 22.50,
+      "investedAmount": "4,725.84",
+      "portfolioValue": 5.81,
+      "pl": "146.16",
+      "returnValue": 3.09,
+      "companyName": "iShares",
+      "createdBy": "by **** Company",
+      "companySubName": "S&P 500 Index",
+      "companyFooter": "Market Equality"
+    },
+    {
+      "scripName": "JPEM",
+      "quantity": 328,
+      "price": 52.50,
+      "avgCost": 56.70,
+      "investedAmount": "18,597.60",
+      "portfolioValue": 22.86,
+      "pl": "-1,377.60",
+      "returnValue": -7.41,
+      "companyName": "iShares",
+      "createdBy": "by **** Company",
+      "companySubName": "S&P 500 Index",
+      "companyFooter": "US Equality"
+    },
+    {
+      "scripName": "KEMQ",
+      "quantity": 801,
+      "price": 20.40,
+      "avgCost": 22.24,
+      "investedAmount": "17,811.04",
+      "portfolioValue": 21.89,
+      "pl": "-1,470.64",
+      "returnValue": -8.26,
+      "companyName": "iShares",
+      "createdBy": "by **** Company",
+      "companySubName": "S&P 500 Index",
+      "companyFooter": "Market Equality"
+    },
+    {
+      "scripName": "KLDW",
+      "quantity": 523,
+      "price": 32.90,
+      "avgCost": 26.32,
+      "investedAmount": "13,765.36",
+      "portfolioValue": 16.92,
+      "pl": "3,441.34",
+      "returnValue": 25.00,
+      "companyName": "iShares",
+      "createdBy": "by **** Company",
+      "companySubName": "S&P 500 Index",
+      "companyFooter": "US Equality"
+    },
+    {
+      "scripName": "KOIN",
+      "quantity": 335,
+      "price": 25.40,
+      "avgCost": 25.40,
+      "investedAmount": "8,509.00",
+      "portfolioValue": 10.46,
+      "pl": "-",
+      "returnValue": 0,
+      "companyName": "iShares",
+      "createdBy": "by **** Company",
+      "companySubName": "S&P 500 Index",
+      "companyFooter": "Market Equality"
+    }
+  ]
+}

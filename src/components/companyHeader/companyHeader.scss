@@ -1,0 +1,43 @@
+.container {
+    .menu-icon {
+        font-size: 25px;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+    .flex-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        .company-name {
+            font-size: 25px;
+            font-weight: 600;
+            color: rgba(38, 173, 38, 0.62);
+        }
+        .founder {
+            font-size: 10px;
+            margin-left: 30px;
+        }
+        .sub-name {
+            font-weight: 700;
+        }
+        .footer {
+            font-size: 12px;
+            font-weight: 600;
+        }
+    }
+    .header {
+        text-align: center;
+        font-size: 12px;
+        font-weight: 600;
+        color: gray;
+        .dollar {
+            font-size: 30px;
+            color: gray;
+        }
+        .price {
+            font-size: 30px;
+            color: rgba(24, 178, 233, 0.93);
+            font-weight: 700;
+        }
+    }
+}

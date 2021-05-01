@@ -1,0 +1,42 @@
+.pie-chart {
+    position: absolute;
+    top: 35%;
+    right: 9vw;
+    .header-wrapper {
+        position: absolute;
+        top: -50px;
+        left: 90px;
+        width: 350px;
+        .row {
+            width: 350px !important;
+            .column {
+                height: 20px;
+            }
+            .header {
+                font-size: 20px;
+                font-weight: 600;
+                color: rgb(0, 0, 0);
+            }
+            .asset {
+                text-align: right;
+                .icon {
+                    padding-left: 3px;
+                }
+            }
+        }
+    }
+    .recharts-wrapper {
+        position: absolute;
+        cursor: default;
+        height: 200px !important;
+        left: 100px !important;
+        .recharts-legend-wrapper {
+            position: absolute;
+            width: 50% !important;
+            height: auto;
+            top: 82px;
+            font-size: 12px;
+            left: 200px !important;
+        }
+    }
+}

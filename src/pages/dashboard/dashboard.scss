@@ -1,0 +1,40 @@
+.dashboard-wrapper {
+    width: calc(100vw - 200px) !important;
+    margin-left: auto;
+    margin-right: auto;
+    .dashboard-content {
+        max-width: 1400px;
+        height: 500px;
+        .row {
+            height: 100px;
+        }
+        .container-row {
+            margin-bottom: 10px;
+            .button {
+                background-color: rgba(13, 13, 13, 0.03);
+            }
+        }
+        .spinner-container {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 500px;
+        }
+        .pie-chart-wrapper {
+            width: 25%;
+            position: absolute;
+            top: 16vh;
+            right: -60px;
+            border-left: 10px solid rgba(13, 13, 13, 0.03);
+            height: 650px;
+        }
+    }
+    h1 {
+        margin: 50px 0 50px 0;
+        text-align: center;
+    }
+    .content-wrapper {
+        background-color: rgba(13, 13, 13, 0.03);
+    }
+}
